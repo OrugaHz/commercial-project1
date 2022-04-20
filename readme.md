@@ -1,0 +1,1 @@
+Witam w moim pierwszym komercyjnym projekcie strony internetowej, wykonanej dla na zlecenie mojej koleżanki. Zaledwie po dwóch miesiącach nauki Web Develppmentu, powstał taki projekt. Prosty, ale wiele się przy nim nauczyłam.
